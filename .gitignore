@@ -1,0 +1,11 @@
+# vim temporal files
+*.swp
+
+# emacs temporal files
+*~
+
+# python cache dirs
+__pycache__
+
+# pytest cache dirs
+.cache
